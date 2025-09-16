@@ -1,2 +1,2 @@
-# main2.py
-VPN,Proxy detector-Python Script
+# VPN Detector.py
+VPN,Proxy,TOR node detector-Python Script
